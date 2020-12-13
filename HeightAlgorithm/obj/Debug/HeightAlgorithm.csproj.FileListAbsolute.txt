@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\bin\Debug\HeightAlgorithm.exe.config
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\bin\Debug\HeightAlgorithm.exe
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\bin\Debug\HeightAlgorithm.pdb
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\obj\Debug\HeightAlgorithm.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\obj\Debug\HeightAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\obj\Debug\HeightAlgorithm.exe
+C:\Users\HP\source\repos\HeightAlgorithm\HeightAlgorithm\obj\Debug\HeightAlgorithm.pdb
